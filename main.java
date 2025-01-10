@@ -3,9 +3,6 @@ import java.util.Scanner;
 
 public class GuessTheNumber {
     public static void main(String[] args) {
-//        Scanner scanner = new Scanner(System.in);
-//        String guess = scanner.next();
-//        System.out.print(guess);
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter    surname: ");
